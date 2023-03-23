@@ -4,21 +4,21 @@
     "href": "index.html#section",
     "title": "Open Scholarship Community Sheffield",
     "section": "",
-    "text": "Hi, I’m Neil Shephard, and I’m a Research Software Engineer in the Research Software Engineering Team within the Computer Science Department. I’m not hear today to talk to you about software, but about building an Open Scholarship Community in Sheffield.\nBy way of background I studied Zoology and Genetics back in 95-98 here at Sheffield, then Post-graduate research in Genetic Epidemiology 00-01. I’ve worked as a Genetics Statistician for 10 years at University of Manchester, Western Australia and back here in Sheffield University and then spent a decade working as a Medical Statistician in the Clinical Trials Unit within ScHARR. I had a few years working in industry on Teletmatics before returning to University of Sheffield last year to the role I’m currently in."
+    "text": "Hi, I’m Neil Shephard, and I’m a Research Software Engineer in the Research Software Engineering Team within the Computer Science Department. I’m not hear today to talk to you about software, but about building an Open Scholarship Community in Sheffield.\nBy way of background I studied Zoology and Genetics back in 95-98 here at Sheffield, then Post-graduate research in Genetic Epidemiology 00-01. I’ve worked as a Genetics Statistician for 10 years at University of Manchester, Western Australia and back here in Sheffield University and then spent a decade working as a Medical Statistician in the Clinical Trials Unit within ScHARR. I had a few years working in industry on Teletmatics before returning to University of Sheffield last year to the role I’m currently in.\nI developed an early interest in reproducibility many years ago when I quickly tired of re-creating tables and copying and pasting figures into documents and taught myself literate programming with LaTeX and in time other systems. Despite being author on a number of papers that are Open Access and adopting Git to version control my code during my time working as a Medical Statistician the code that underpinned the research was never formally published.\nI’m passionate about open science and saw an opportunity to learn more and help innovate via Open Science Communities and am here to talk that today."
   },
   {
     "objectID": "index.html#osc-incubator-programme",
     "href": "index.html#osc-incubator-programme",
     "title": "Open Scholarship Community Sheffield",
     "section": "OSC Incubator Programme",
-    "text": "OSC Incubator Programme\n\nSyllabus v1.2"
+    "text": "OSC Incubator Programme\n\nSyllabus v1.2\nNurture and grow Open Science/Scholarship Communities around the world.\nShare resources and ideas to facilitate uptake.\n[PLACEHOLDER]"
   },
   {
     "objectID": "index.html#open-sciencescholarship-communities",
     "href": "index.html#open-sciencescholarship-communities",
     "title": "Open Scholarship Community Sheffield",
     "section": "Open Science/Scholarship Communities",
-    "text": "Open Science/Scholarship Communities\n\nOSCs are part of International Network of Open Science Communities (INOSC**\nStarted at Utrecht University in Netherlands\nGrew to others in Ntherlands\nNow seeking to build international network."
+    "text": "Open Science/Scholarship Communities\n\nOSCs are part of International Network of Open Science Communities (INOSC)\nStarted at Utrecht University in Netherlands\nGrew to others in Netherlands\n…and beyond\nNow seeking to further expand international network."
   },
   {
     "objectID": "index.html#inosc",
@@ -46,13 +46,41 @@
     "href": "index.html#governance",
     "title": "Open Scholarship Community Sheffield",
     "section": "Governance",
-    "text": "Governance\n\nCore Team of active members\nIndependent, bottom-up, self-governing, self-steering.\nNot determined by institutional policies but should collaborate with institutional Open Research programmes, libraries and so forth."
+    "text": "Governance\n\nCore Team of active members\nIndependent, bottom-up, self-governing, self-steering.\nNot determined by institutional policies but should collaborate with institutional Open Research programmes, libraries and so forth. ======= ::: {.notes}\n\n:::"
+  },
+  {
+    "objectID": "index.html#culture-and-behaviour-change",
+    "href": "index.html#culture-and-behaviour-change",
+    "title": "Open Scholarship Community Sheffield",
+    "section": "Culture and Behaviour Change",
+    "text": "Culture and Behaviour Change\n\nNosek (2019) Strategy for Culture Change\n\nInfrastrcuture is at the base of the pyramid of culture and behaviour and there are systems in place such as the Open Science Framework and Octopus which is being developed by JISC. Both of which allow (or will) researchers to register their studies, share materials and data (optionally protecting sensitive data) and share outcomes at any point in the study to accelerate communication regardless of publication.\nThe user interface and experience of using these tools needs to be low friction to encourage adoption and many popular services such as GitHub and Docker are integrated.\nFrom the top of the pyramid is policy and incentives which address the reward system and these are changing towards incentivising open research practices, but we’re not there yet as these practices are not the norm within many places and it is communities that help bridge or fill this gap. Because when people see others undertaking and engaging with open research practices in a visible manner it helps accelerate adoption."
   },
   {
     "objectID": "index.html#connecting-people",
     "href": "index.html#connecting-people",
     "title": "Open Scholarship Community Sheffield",
     "section": "Connecting People",
-    "text": "Connecting People\n\nWhen one person teaches, two people learn.\n\n\nSharing\n\n\n\nns-rse.github.io/osc-sheffield/"
+    "text": "Connecting People\n\nWhen one person teaches, two people learn.\n\n\nRange of career stages and skills/knowledge/experience.\nSharing knowledge between researchers to learn from each other."
+  },
+  {
+    "objectID": "index.html#diffusion-of-innovation-1",
+    "href": "index.html#diffusion-of-innovation-1",
+    "title": "Open Scholarship Community Sheffield",
+    "section": "Diffusion of Innovation",
+    "text": "Diffusion of Innovation\n\n\nWhen any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake really picks up. Unfortunately there is still a large proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.\nBy normalising open research practices through building of an active community we accelerate and lower the bar to reaching the early and late majority and the laggards."
+  },
+  {
+    "objectID": "index.html#structure",
+    "href": "index.html#structure",
+    "title": "Open Scholarship Community Sheffield",
+    "section": "Structure",
+    "text": "Structure\n\nCore Team of active members, inclusive and diverse.\nIndependent, bottom-up, self-governing, self-steering.\nNot determined by institutional policies but should collaborate with institutional Open Research programmes, libraries and so forth.\nWork with existing groups such as the FAIR Roadmap Working Group.\nAimed towards researchers, support staff and administrators.\n\n\nThe governance or structure of the Open Scholarship Community consists of a core team of active members which should be inclusive and diverse, with members from all faculties represented. Members in specific domains are better positioned to engage with and inspire their peers. It is important to have representatives from all faculties to encourage wide-spread adoption and avoid any one group from feeling excluded or that Open Scholarship doesn’t fir their needs.\nThe community is meant to be an independent, bottom-up, self-governing and self-steering group, not determined by institutional policies but should cooperate with the existing structures for Open Research, library efforts and so forth and should work with existing groups such as the FAIR Roadmap"
+  },
+  {
+    "objectID": "index.html#activities-and-formats",
+    "href": "index.html#activities-and-formats",
+    "title": "Open Scholarship Community Sheffield",
+    "section": "Activities and Formats",
+    "text": "Activities and Formats\n\nMembers have profiles pages highlighting experience.\nWorkshops on specific topics.\nReuse material from existing OSCs strongly encouraged.\n\n\n\n\n\n\n\n\n\nns-rse.github.io/osc-sheffield/"
   }
 ]

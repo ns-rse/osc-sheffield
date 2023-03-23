@@ -1,1 +1,1 @@
-Sitemap: https://sparrow0hawk.github.io/template-revealjs-quarto/sitemap.xml
+Sitemap: https://ns-rse.github.io/osc-sheffield/sitemap.xml
