@@ -28,27 +28,6 @@
     "text": "INOSC\nTODO Scale images (columns?)"
   },
   {
-    "objectID": "index.html#transitions-to-open-science",
-    "href": "index.html#transitions-to-open-science",
-    "title": "Open Scholarship Community Sheffield",
-    "section": "Transitions to Open Science",
-    "text": "Transitions to Open Science\n[](COS_Culture_and_Behavior_Change_model.png**\nNosek (2019) Strategy for Culture Change"
-  },
-  {
-    "objectID": "index.html#diffusion-of-innovation",
-    "href": "index.html#diffusion-of-innovation",
-    "title": "Open Scholarship Community Sheffield",
-    "section": "Diffusion of Innovation",
-    "text": "Diffusion of Innovation"
-  },
-  {
-    "objectID": "index.html#governance",
-    "href": "index.html#governance",
-    "title": "Open Scholarship Community Sheffield",
-    "section": "Governance",
-    "text": "Governance\n\nCore Team of active members\nIndependent, bottom-up, self-governing, self-steering.\nNot determined by institutional policies but should collaborate with institutional Open Research programmes, libraries and so forth. ======= ::: {.notes}\n\n:::"
-  },
-  {
     "objectID": "index.html#culture-and-behaviour-change",
     "href": "index.html#culture-and-behaviour-change",
     "title": "Open Scholarship Community Sheffield",
@@ -60,11 +39,11 @@
     "href": "index.html#connecting-people",
     "title": "Open Scholarship Community Sheffield",
     "section": "Connecting People",
-    "text": "Connecting People\n\nWhen one person teaches, two people learn.\n\n\nRange of career stages and skills/knowledge/experience.\nSharing knowledge between researchers to learn from each other."
+    "text": "Connecting People\n\nWhen one person teaches, two people learn.\n\n\nRange of career stages and skills/knowledge/experience.\nSharing knowledge between researchers to learn from each other.\nSupport beyond training courses.\n\n\nThere are a range of researchers in terms of career stages, early, mid and advanced and across each of these there is variation in the skills, knowledge and experience around the different areas of Open Science, some people have experience in publishing study protocols, others in publishing data on Sheffield ORDA, yet others such as myself have familiarity with the FAIR Principles for Research Software and applying these to publishing open source software projects.\nSharing this knowledge directly between researchers so they learn from each other is a highly effective means of normalising the practices and when one person teaches two people learn.\nTraining courses are great for getting started but typically when applying what you’ve learned to your own domain/work/problem there will be problems that crop up and this is where the support of a community comes in really helpful as you know where to look for people who can help.\nHaving physical meetings is an important key feature, but can be augmented by having online forum of some description that allows a permanent record of problems solving to be built up and searched and serve as a basis for developing more formal documentation that needs improving or creating if for example many people meet a problem/barrier when trying to use a service such as ORDA this could be recognised if there are lots of people asking questions or needing support on that front."
   },
   {
-    "objectID": "index.html#diffusion-of-innovation-1",
-    "href": "index.html#diffusion-of-innovation-1",
+    "objectID": "index.html#diffusion-of-innovation",
+    "href": "index.html#diffusion-of-innovation",
     "title": "Open Scholarship Community Sheffield",
     "section": "Diffusion of Innovation",
     "text": "Diffusion of Innovation\n\n\nWhen any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake really picks up. Unfortunately there is still a large proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.\nBy normalising open research practices through building of an active community we accelerate and lower the bar to reaching the early and late majority and the laggards."
