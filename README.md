@@ -1,6 +1,13 @@
-# Template Quarto Revealjs site
+# Open Scholarship Community Sheffield
 
-This template can be used to publish a [RevealJS](https://revealjs.com/) website that has been written in
+Slides about setting up an Open Scholarship Community in Sheffield which would be part of the wider [International
+Network of Open Science Communities](https://osc-international.com) (INSOC).
+
+
+
+# Quarto Revealjs site
+
+This repository publishes a [RevealJS](https://revealjs.com/) website that has been written in
 [Quarto](https://www.quarto.org). It includes a [GitHub Action](https://docs.github.com/en/actions) which will convert
 the Quarto source to HTML and publish them via [GitHub Pages](https://pages.github.com/).
 
@@ -8,14 +15,6 @@ Its a useful way of making slides portable as they are then available via the UR
 controlled.
 
 
-# Usage
-
-## Use the Template
-
-Start by clicking on the "_Use this Template_" button and selecting "_Create a new repository_". You will have to choose
-a name for the repository. When ready click on "_Create repository from template_" and this will copy all the resources
-into a new repository under your GitHub account ready for you to start using. You will probably want to clone the
-repository locally to do so.
 
 ## Edit `_quarto.yaml`
 
