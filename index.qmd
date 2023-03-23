@@ -1,8 +1,89 @@
 ---
-title: "Template Revealjs Quarto site"
-format: revealjs
+title: "Open Scholarship Community Sheffield"
+author: "Neil Shephard"
+email: "n.shephard@sheffield.ac.uk"
+from: markdown+emoji
+format:
+  revealjs:
+    incremental: true
+    theme: league # solarized | dark | night | league | sky
+    slide-number: true
+    show-slide-number: speaker
+    # embed-resources: true
+    # standalone: true
+footer: "[**ns-rse.github.io/osc-sheffield/**](https://ns-rse.github.io/osc-sheffield/#/title-slide)"
+project:
+  port: 7864
+  host: localhost
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+##
+
+![](img/OSC\ Sheffield.png)
+
+::: {.notes}
+Hi, I'm Neil Shephard, and I'm a Research Software Engineer in the Research Software Engineering Team within the
+Computer Science Department. I'm not hear today to talk to you about software, but about building an Open Scholarship
+Community in Sheffield.
+
+By way of background I studied Zoology and Genetics back in 95-98 here at Sheffield, then Post-graduate research in
+Genetic Epidemiology 00-01. I've worked as a Genetics Statistician for 10 years at University of Manchester, Western
+Australia and back here in Sheffield University and then spent a decade working as a Medical Statistician in the
+Clinical Trials Unit within ScHARR. I had a few years working in industry on Teletmatics before returning to University
+of Sheffield last year to the role I'm currently in.
+:::
+
+## OSC Incubator Programme
+
+
++ [Syllabus v1.2](https://www.osc-international.com/)
+
+## Open Science/Scholarship Communities
+
++ OSCs are part of [International Network of Open Science Communities](https://www.osc-international.com/) (INOSC**
++ Started at Utrecht University in Netherlands
++ Grew to others in Ntherlands
++ Now seeking to build international network.
+
+
+## INOSC
+
+**TODO** Scale images (columns?)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img/osc-nl-1.jpg)
+:::
+
+::: {.column width="50%"}
+![](img/inosc-world.png)
+:::
+
+::::
+
+## Transitions to Open Science
+
+![](COS_Culture_and_Behavior_Change_model.png**
+
+[Nosek (2019) Strategy for Culture Change](img/COS_Culture_and_Behavior_Change_model.png)
+
+
+## Diffusion of Innovation
+
+![](img/Diffusion_of_innovations.svg)
+
+## Governance
+
++ Core Team of active members
++ Independent, bottom-up, self-governing, self-steering.
++ Not determined by institutional policies but should collaborate with institutional Open Research programmes, libraries
+  and so forth.
+
+
+## Connecting People
+
+> When one person teaches, two people learn.
+
++ Sharing
