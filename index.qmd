@@ -79,27 +79,7 @@ and am here to talk that today.
 
 ::::
 
-## Transitions to Open Science
 
-![](COS_Culture_and_Behavior_Change_model.png**
-
-[Nosek (2019) Strategy for Culture Change](img/COS_Culture_and_Behavior_Change_model.png)
-
-
-## Diffusion of Innovation
-
-![](img/Diffusion_of_innovations.svg)
-
-## Governance
-
-+ Core Team of active members
-+ Independent, bottom-up, self-governing, self-steering.
-+ Not determined by institutional policies but should collaborate with institutional Open Research programmes, libraries
-  and so forth.
-=======
-::: {.notes}
-
-:::
 
 
 ## Culture and Behaviour Change
@@ -127,16 +107,34 @@ open research practices in a visible manner it helps accelerate adoption.
 
 
 
+
 ## Connecting People
 
 > _When one person teaches, two people learn._
 
 + Range of career stages and skills/knowledge/experience.
 + Sharing knowledge between researchers to learn from each other.
-+
++ Support beyond training courses.
 
 ::: {.notes}
+There are a range of researchers in terms of career stages, early, mid and advanced and across each of these there is
+variation in the skills, knowledge and experience around the different areas of Open Science, some people have
+experience in publishing study protocols, others in publishing data on Sheffield ORDA, yet others such as myself have
+familiarity with the FAIR Principles for Research Software and applying these to publishing open source software
+projects.
 
+Sharing this knowledge directly between researchers so they learn from each other is a highly effective means of
+normalising the practices and when one person teaches two people learn.
+
+Training courses are great for getting started but typically when applying what you've learned to your own
+domain/work/problem there will be problems that crop up and this is where the support of a community comes in really
+helpful as you know where to look for people who can help.
+
+Having physical meetings is an important key feature, but can be augmented by having online forum of some description
+that allows a permanent record of problems solving to be built up and searched and serve as a basis for developing
+more formal documentation that needs improving or creating if for example many people meet a problem/barrier when trying
+to use a service such as ORDA this could be recognised if there are lots of people asking questions or needing support
+on that front.
 :::
 
 
