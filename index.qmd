@@ -17,6 +17,19 @@ project:
   host: localhost
 ---
 
+##
+
+:::: {.columns}
+
+::: {.column width="50%"}
+View these slides...
+:::
+
+::: {.column width="50%"}
+{{< qrcode https://ns-rse.github.io/osc-sheffield/ qr1 width=400 height=400 >}}
+:::
+
+::::
 
 ##
 
@@ -164,13 +177,17 @@ reaching the early and late majority and the laggards.
 :::
 
 
+:::: {.scrollable}
 ## Structure
 
 + Core Team of active members, inclusive and diverse.
 + Independent, bottom-up, self-governing, self-steering.
-+ Not determined by institutional policies but should collaborate with institutional Open Research programmes, libraries
-  and so forth.
-+ Work with existing groups such as the FAIR Roadmap Working Group.
++ Not determined by institutional policies.
++ Collaborate with institutional Open Research programmes, libraries and so forth.
++ Work with existing groups...
+  + FAIR Roadmap Working Group
+  + [Reproducibilitea](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea)
+  + [Data Visualisation Hub](https://dataviz.shef.ac.uk/)
 + Aimed towards researchers, support staff and administrators.
 
 ::: {.notes}
@@ -184,6 +201,8 @@ institutional policies but should cooperate with the existing structures for Ope
 forth and should work with existing groups such as the FAIR Roadmap Working Group.
 :::
 
+::::
+
 ## Activities and Formats
 
 :::: {.columns}
@@ -191,8 +210,8 @@ forth and should work with existing groups such as the FAIR Roadmap Working Grou
 ::: {.column width="50%"}
 + Members have profiles pages highlighting experience.
 + Workshops on specific topics.
-+ Establish a forum.
-+ Reuse of material and knowledge from existing OSCs.
++ Establish online forum.
++ Reuse material and knowledge from existing OSCs.
 :::
 
 ::: {.column width="50%"}
@@ -219,30 +238,31 @@ knowledge base as sharing of material and experiences is strongly encouraged and
 that Loek and Annita who are running it are really passionate and supportive about community building.
 :::
 
-## OSC UK
+## OSC Sheffield
 
-+ Few other UK Universities have established OSCs
-+ Others on current Incubator Programme
-+ Opportunity to help lead development of OSC UK
++ Opportunity join growing INOSC
++ Sheffield and Durham currently on Incubator Programme
 + Present if not launch around OpenFest2023
 
 ::: {.notes}
-Currently there are no established OSC groups at UK Universities, although there are others on the Incubator course that
-I'm running at the moment, from memory there is a lady at Durham University, Fuschia [Surname], who used to work here at
-the University of Sheffield.
+This gives us an opportunity to join the growing network of Open Science Communities that co-ordinate and share
+knowledge as part of the International Network of Open Science Communities.
 
-This gives us an opportunity to be a prominent exponent of Open Science Communities in the UK as funders rethink their
-policies to promote greater transparency and journals are adopting pre-registration and adopting transparency policies
-around data, materials and code.
+Currently on the Incubator programme from the UK are myself and [Fuschia
+Sirois](https://www.durham.ac.uk/staff/fuschia-sirois/) from the University of Durham, she also happens to be an alumni
+of The University of Sheffield.
 
-Not currently seeking any costing for this work its something I've undetaken of my own volition as I'm keen to see Open
-Research be more widely adopted and normalised within the research community as I feel there is still a long way to go.
+Not currently seeking any costing for this work its something I've undertaken of my own volition as I'm keen to see Open
+Research be more widely adopted and normalised within the research community as I feel there is still a long way to go
+and that building a community of people to support each other is an effective means of normalising the practice and
+increasing the open ness of research at The University of Sheffield and beyond.
 :::
 
 
 ##
 
 ![](img/OSC\ Sheffield.png)
+
 
 <!-- ## Title -->
 
