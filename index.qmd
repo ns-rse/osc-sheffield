@@ -93,11 +93,10 @@ recently and have been participating in for three weeks now.
 
 
 ::: {.notes}
-There are nine participants in this cohort of the OSC Incubator Programme including myself and as stated the aim is to
-seed, nurture and help grow Open Science/Scholarship Communities around the world.
+There are nine participants in this cohort of the OSC Incubator Programme including myself with researches from Greece,
+Portugal, France and Germany
 
-
-
+The stated the aim is to seed, nurture and help grow Open Science/Scholarship Communities around the world.
 :::
 
 ## Why Communities?
@@ -124,18 +123,51 @@ and it is communities that help bridge or fill this gap. Because when people see
 open research practices in a visible manner it helps accelerate adoption.
 :::
 
+## Open Science TOols
 
+![[https://101innovations.wordpress.com/](https://101innovations.wordpress.com/)](img/open_science_tools.png)
 
+::: {.notes}
+As we all know, there are a _lot_ of tools out there these days for undertaking open research, sometimes it can be a
+little overwhelming.
+:::
 
+## What are Communities?
 
+"_a dynamic, social grouping where members align around a shared purpose (or multiple overlapping purposes)
+  and participate in a shared culture. Active community participation frequently aligns with a sense of
+  belonging and affiliation to the community. In a community the flow of information is multi-directional with members
+  able to do something as a result of being connected to one another that they would not be able to do alone._"
+
+::: {.notes}
+I think before going further its worth defining what a community is and this quote from the Center for Scientific
+Collaboration and Community Engagement gives a clear definition.
+:::
+
+## What are Communities? (_cont._)
+
++ Shared Goals
++ Sense of Belonging
++ Connections
++ Opportunity
+
+::: {.notes}
+Nurturing a community within Sheffield and as part of the wider INOSC brings together people with shared goals and gives
+them a sense of belonging. It allows people to make connections and gives them opportunities to learn and grow, which
+encourages and enables them to take action.
+:::
 
 ## Connecting People
 
-> _When one person teaches, two people learn._
 
 + Range of career stages and skills/knowledge/experience.
-+ Sharing knowledge between researchers to learn from each other.
 + Support beyond training courses.
++ Sharing knowledge between researchers to learn from each other.
+
+. . .
+
+_When one person teaches, two people learn._
+
 
 ::: {.notes}
 There are a range of researchers in terms of career stages, early, mid and advanced and across each of these there is
@@ -157,8 +189,6 @@ more formal documentation that needs improving or creating if for example many p
 to use a service such as ORDA this could be recognised if there are lots of people asking questions or needing support
 on that front.
 :::
-
-
 
 
 
@@ -188,7 +218,7 @@ reaching the early and late majority and the laggards.
   + FAIR Roadmap Working Group
   + [Reproducibilitea](https://groups.google.com/a/sheffield.ac.uk/g/reproducibilitea)
   + [Data Visualisation Hub](https://dataviz.shef.ac.uk/)
-+ Aimed towards researchers, support staff and administrators.
++ All staff, researchers, support staff and administrators.
 
 ::: {.notes}
 The governance or structure of the Open Scholarship Community consists of a core team of active members which should be
@@ -198,7 +228,10 @@ adoption and avoid any one group from feeling excluded or that Open Scholarship 
 
 The community is meant to be an independent, bottom-up, self-governing and self-steering group, not determined by
 institutional policies but should cooperate with the existing structures for Open Research, library efforts and so
-forth and should work with existing groups such as the FAIR Roadmap Working Group.
+forth and should work with existing groups such as the FAIR Roadmap Working Group, Reproucibilitea and the Data
+Visualisation hub to name but a few.
+
+Its aimed at all staff, not just researchers but support staff and administrators.
 :::
 
 ::::
