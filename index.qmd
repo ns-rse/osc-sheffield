@@ -123,7 +123,7 @@ and it is communities that help bridge or fill this gap. Because when people see
 open research practices in a visible manner it helps accelerate adoption.
 :::
 
-## Open Science TOols
+## Open Science Tpols
 
 ![[https://101innovations.wordpress.com/](https://101innovations.wordpress.com/)](img/open_science_tools.png)
 
@@ -156,6 +156,21 @@ Nurturing a community within Sheffield and as part of the wider INOSC brings tog
 them a sense of belonging. It allows people to make connections and gives them opportunities to learn and grow, which
 encourages and enables them to take action.
 :::
+
+## Diffusion of Innovation
+
+![](img/diffusion_innovation.png)
+
+::: {.notes}
+When any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion
+where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after,
+and following them there is the early majority where uptake really picks up. Unfortunately there is still a large
+proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.
+
+By normalising open research practices through building of an active community we accelerate and lower the bar to
+reaching the early and late majority and the laggards.
+:::
+
 
 ## Connecting People
 
@@ -190,20 +205,32 @@ to use a service such as ORDA this could be recognised if there are lots of peop
 on that front.
 :::
 
+## The Power of Peer-to-Peer
 
-
-## Diffusion of Innovation
-
-![](img/diffusion_innovation.png)
++ Less intimidating
++ Experience > Expertise
++ Practical > Theoretical
++ Specificity
++ Participation is the key
 
 ::: {.notes}
-When any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion
-where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after,
-and following them there is the early majority where uptake really picks up. Unfortunately there is still a large
-proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.
+Peer-to-peer teaching can be far less intimidating than formal teaching environments and it lowers the threshold for
+asking for help when it is felt that the community is supportive and encouraging.
 
-By normalising open research practices through building of an active community we accelerate and lower the bar to
-reaching the early and late majority and the laggards.
+Very often experience is more important than expertise. I speak from experience that knowing a system really well means
+that you can often overlook certain aspects that you take for granted and that someone new to a system might struggle to
+understand or use. When I started learning to use Git for version control collaboratively my colleagues talked about it
+as though I already understood what rebasing was, but it was a completely new concept coming from a situation where I
+had only ever used Git on my own.
+
+In a similar vein sharing practical experience of how to use tools is often more beneficial than deep theoretical
+explanations. There can often be many aspects that might be covered in theoretical material that aren't relevant to
+someone getting started.
+
+In the same vein the more specific a topic is the better, it ensure that the necessary detail is covered and that it is
+relevant to those attending which improves engagement.
+
+They key to the community really is about participation though and peer-to-peer interactions help promote this.
 :::
 
 
