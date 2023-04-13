@@ -35,11 +35,11 @@
     "text": "Why Communities?\n\nNosek (2019) Strategy for Culture Change\n\nThis is a diagram from an article by Brian Nosek, one of the co-founders of the Center for Open Science and represents how to bring about culture and behaviour change.\nInfrastructure is at the base of the pyramid of culture and behaviour change and there are systems in place such as the Open Science Framework and Octopus which is being developed by JISC. Both of which allow (or will) researchers to register their studies, share materials and data (optionally protecting sensitive data) and share outcomes at any point in the study to accelerate communication regardless of publication.\nThe user interface and experience of using these tools needs to be low friction to encourage adoption and many popular services such as GitHub and Docker are integrated.\nFrom the top of the pyramid is policy and incentives which address the reward system and these are changing towards incentivising open research practices, but we’re not there yet as these practices are not the norm within many places and it is communities that help bridge or fill this gap. Because when people see others undertaking and engaging with open research practices in a visible manner it helps accelerate adoption."
   },
   {
-    "objectID": "index.html#open-science-tools",
-    "href": "index.html#open-science-tools",
+    "objectID": "index.html#open-science-tpols",
+    "href": "index.html#open-science-tpols",
     "title": "Open Scholarship Community Sheffield",
-    "section": "Open Science TOols",
-    "text": "Open Science TOols\n\nhttps://101innovations.wordpress.com/\nAs we all know, there are a lot of tools out there these days for undertaking open research, sometimes it can be a little overwhelming."
+    "section": "Open Science Tpols",
+    "text": "Open Science Tpols\n\nhttps://101innovations.wordpress.com/\nAs we all know, there are a lot of tools out there these days for undertaking open research, sometimes it can be a little overwhelming."
   },
   {
     "objectID": "index.html#what-are-communities",
@@ -56,6 +56,13 @@
     "text": "What are Communities? (cont.)\n\nShared Goals\nSense of Belonging\nConnections\nOpportunity\n\n\nNurturing a community within Sheffield and as part of the wider INOSC brings together people with shared goals and gives them a sense of belonging. It allows people to make connections and gives them opportunities to learn and grow, which encourages and enables them to take action."
   },
   {
+    "objectID": "index.html#diffusion-of-innovation",
+    "href": "index.html#diffusion-of-innovation",
+    "title": "Open Scholarship Community Sheffield",
+    "section": "Diffusion of Innovation",
+    "text": "Diffusion of Innovation\n\n\nWhen any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake really picks up. Unfortunately there is still a large proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.\nBy normalising open research practices through building of an active community we accelerate and lower the bar to reaching the early and late majority and the laggards."
+  },
+  {
     "objectID": "index.html#connecting-people",
     "href": "index.html#connecting-people",
     "title": "Open Scholarship Community Sheffield",
@@ -63,11 +70,11 @@
     "text": "Connecting People\n\nRange of career stages and skills/knowledge/experience.\nSupport beyond training courses.\nSharing knowledge between researchers to learn from each other.\n\n\nWhen one person teaches, two people learn.\n\nThere are a range of researchers in terms of career stages, early, mid and advanced and across each of these there is variation in the skills, knowledge and experience around the different areas of Open Science, some people have experience in publishing study protocols, others in publishing data on Sheffield ORDA, yet others such as myself have familiarity with the FAIR Principles for Research Software and applying these to publishing open source software projects.\nSharing this knowledge directly between researchers so they learn from each other is a highly effective means of normalising the practices and when one person teaches two people learn.\nTraining courses are great for getting started but typically when applying what you’ve learned to your own domain/work/problem there will be problems that crop up and this is where the support of a community comes in really helpful as you know where to look for people who can help.\nHaving physical meetings is an important key feature, but can be augmented by having online forum of some description that allows a permanent record of problems solving to be built up and searched and serve as a basis for developing more formal documentation that needs improving or creating if for example many people meet a problem/barrier when trying to use a service such as ORDA this could be recognised if there are lots of people asking questions or needing support on that front."
   },
   {
-    "objectID": "index.html#diffusion-of-innovation",
-    "href": "index.html#diffusion-of-innovation",
+    "objectID": "index.html#the-power-of-peer-to-peer",
+    "href": "index.html#the-power-of-peer-to-peer",
     "title": "Open Scholarship Community Sheffield",
-    "section": "Diffusion of Innovation",
-    "text": "Diffusion of Innovation\n\n\nWhen any innovative technology or practice comes along you will typically encounter this sort of pattern of diffusion where there are a few innovators who develop the system, slightly more early adopters will pick things up soon after, and following them there is the early majority where uptake really picks up. Unfortunately there is still a large proportion of people who have a propensity to resist, some low, the late majority, some higher, the laggards.\nBy normalising open research practices through building of an active community we accelerate and lower the bar to reaching the early and late majority and the laggards."
+    "section": "The Power of Peer-to-Peer",
+    "text": "The Power of Peer-to-Peer\n\nLess intimidating\nExperience > Expertise\nPractical > Theoretical\nSpecificity\nParticipation is the key\n\n\nPeer-to-peer teaching can be far less intimidating than formal teaching environments and it lowers the threshold for asking for help when it is felt that the community is supportive and encouraging.\nVery often experience is more important than expertise. I speak from experience that knowing a system really well means that you can often overlook certain aspects that you take for granted and that someone new to a system might struggle to understand or use. When I started learning to use Git for version control collaboratively my colleagues talked about it as though I already understood what rebasing was, but it was a completely new concept coming from a situation where I had only ever used Git on my own.\nIn a similar vein sharing practical experience of how to use tools is often more beneficial than deep theoretical explanations. There can often be many aspects that might be covered in theoretical material that aren’t relevant to someone getting started.\nIn the same vein the more specific a topic is the better, it ensure that the necessary detail is covered and that it is relevant to those attending which improves engagement.\nThey key to the community really is about participation though and peer-to-peer interactions help promote this."
   },
   {
     "objectID": "index.html#structure",
